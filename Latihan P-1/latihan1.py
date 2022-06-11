@@ -1,0 +1,5 @@
+print("===========================")
+print("Nama : ISINAMAMU")
+print("Kelas : ISIKELASMU")
+print("Jurusan : ISIJURUSANMU")
+print("===========================")

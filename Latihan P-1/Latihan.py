@@ -1,0 +1,1 @@
+print("saya sedang bljr dasar pemrograman Python")
